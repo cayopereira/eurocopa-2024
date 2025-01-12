@@ -31,9 +31,9 @@ pip install highlight_text
 ```
 
 Sugestão: utilize o arquivo instalar_pacotes.sh para realizar as instalações. 
-Basta rodar no terminal o comando
+Basta rodar no terminal os comandos
 
 ```
 chmod +x instalar_pacotes.sh
-
+./instalar_pacotes.sh
 ```
