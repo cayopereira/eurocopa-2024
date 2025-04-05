@@ -7,10 +7,11 @@
 <h2>Instalação</h2>
 
 É recomendado criar um ambiente virtual para rodar o projeto por se tratar de uma boa prática de programação. 
-Caso esteja utilizando o Linux, abra o terminal na pasta onde se encontra o projeto e rode os seguintes comandos:
+Caso esteja utilizando o Linux, abra o terminal na pasta onde se encontra o projeto e rode os seguintes comandos para instalar o módulo venv, o pip e, por fim, criar seu ambiente virtual:
 
 ```
-sudo pip install virtual env
+sudo apt install python3.12-venv
+sudo apt install python3-pip
 python3 -m venv venv
 ```
 Então, ative o ambiente virtual
