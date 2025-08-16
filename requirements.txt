@@ -4,3 +4,5 @@ seaborn
 statsbombpy
 mplsoccer
 highlight_text
+streamlit
+plotly
